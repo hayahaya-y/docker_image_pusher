@@ -1,1 +1,2 @@
+nginx
 tensorflow/tensorflow:latest
