@@ -1,2 +1,1 @@
-nginx
-tensorflow/tensorflow:latest
+tensorflow/tensorflow:latest-gpu
