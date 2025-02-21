@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tensorflow:25.01-tf2-py3-igpu
+nvcr.io/nvidia/tensorflow:24.12-tf2-py3-igpu
